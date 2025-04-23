@@ -30,7 +30,7 @@ a {
     --main-text-color: #FDFCDC;
 }
 nav ul > li {
-    color: rgb(253, 252, 220);
+    color: color(rgb(253, 252, 220));
     display: inline-flex;
     margin: 0.3em 1em;
 }
@@ -40,7 +40,7 @@ body {
     font-weight: 400;
     line-height: 1.6;
     color: black;
-    background-color: color(rgb(253, 252, 220));
+    background-color: rgb(253, 252, 220);
     margin: 0;
     padding: 0;
     display: grid;
