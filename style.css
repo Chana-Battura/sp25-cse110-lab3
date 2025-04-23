@@ -21,12 +21,14 @@ a {
     color: #FDFCDC;
 
     &:hover {
-    color: orangered;
+    color: color-mix(in srgb, red 70%, orange 30%);
     }
 }
 }
 
-  
+:root {
+    --main-text-color: #FDFCDC;
+}
 nav ul > li {
     color: rgb(253, 252, 220);
     display: inline-flex;
@@ -38,7 +40,7 @@ body {
     font-weight: 400;
     line-height: 1.6;
     color: black;
-    background-color: color(srgb 0.992 0.988 0.863);
+    background-color: color(rgb(253, 252, 220));
     margin: 0;
     padding: 0;
     display: grid;
