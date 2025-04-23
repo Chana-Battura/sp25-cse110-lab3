@@ -30,7 +30,7 @@ a {
     --main-text-color: #FDFCDC;
 }
 nav ul > li {
-    color: color(rgb(253, 252, 220));
+    color: color(rgb 253 252 220);
     display: inline-flex;
     margin: 0.3em 1em;
 }
