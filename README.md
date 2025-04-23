@@ -1,3 +1,3 @@
-# Lab 2 - Starter
+# Lab 3 - Starter
 link to website:
-https://chana-battura.github.io/Lab2_Starter/
+https://chana-battura.github.io/sp25-cse110-lab3
